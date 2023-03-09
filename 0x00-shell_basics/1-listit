@@ -1,9 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-dir=.
-for entry in "$dir"/*
-do
-	echo "$entry"
-done
-=======
->>>>>>> 455896854ab3e85c90e7979454819f73aef96789
+echo "${ls}"
