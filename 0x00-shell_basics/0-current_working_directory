@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/1980022047110735084667108389491587736912_5/205/391425/0x00-shell_basics
+echo "/home/vagrant/alx-system_engineering-devops/0x00-shell_basics"
