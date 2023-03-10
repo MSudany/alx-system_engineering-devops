@@ -1,2 +1,2 @@
 #!/bin/bash
-#code goes here
+ls .  -l
