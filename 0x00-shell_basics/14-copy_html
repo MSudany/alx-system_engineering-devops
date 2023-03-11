@@ -1,2 +1,2 @@
 #!/bin/bash
-#code_goes_here
+cp *.html ..
