@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "${B2D[$BINARY]}\n"
+printf "$((10#BINARY))\n"
