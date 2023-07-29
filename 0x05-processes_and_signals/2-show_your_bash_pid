@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#Gets the pid of your bash process.
+# shellcheck disable=SC2009
+
+ps -aux | grep bash
