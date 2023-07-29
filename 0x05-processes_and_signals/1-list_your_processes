@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-#Displays all processes in a user-oriented format.
+#Displays all processes currently running
+#+  in a user oriented format.
 
-ps -aux
+ps -auxf
