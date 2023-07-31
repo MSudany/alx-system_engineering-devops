@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#listing contents of a directory
+
+for FILE in *
+do
+    echo "${FILE#*-}" 
+done
